@@ -14,10 +14,14 @@
 		83F81DAF2707F49000D5840C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83F81DAE2707F49000D5840C /* Assets.xcassets */; };
 		83F81DB22707F49000D5840C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83F81DB02707F49000D5840C /* LaunchScreen.storyboard */; };
 <<<<<<< HEAD
+<<<<<<< HEAD
 		83F81DBA2707F51800D5840C /* StoryOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F81DB92707F51800D5840C /* StoryOne.swift */; };
 =======
 		83F81DBC2707F60A00D5840C /* StoryTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F81DBB2707F60A00D5840C /* StoryTwo.swift */; };
 >>>>>>> feature/another-story
+=======
+		83F81DBE2708059E00D5840C /* StoryThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F81DBD2708059E00D5840C /* StoryThree.swift */; };
+>>>>>>> feature/story-three
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,10 +34,14 @@
 		83F81DB12707F49000D5840C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83F81DB32707F49000D5840C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 <<<<<<< HEAD
+<<<<<<< HEAD
 		83F81DB92707F51800D5840C /* StoryOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryOne.swift; sourceTree = "<group>"; };
 =======
 		83F81DBB2707F60A00D5840C /* StoryTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryTwo.swift; sourceTree = "<group>"; };
 >>>>>>> feature/another-story
+=======
+		83F81DBD2708059E00D5840C /* StoryThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryThree.swift; sourceTree = "<group>"; };
+>>>>>>> feature/story-three
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,10 +78,14 @@
 				83F81DA72707F48C00D5840C /* SceneDelegate.swift */,
 				83F81DA92707F48C00D5840C /* ViewController.swift */,
 <<<<<<< HEAD
+<<<<<<< HEAD
 				83F81DB92707F51800D5840C /* StoryOne.swift */,
 =======
 				83F81DBB2707F60A00D5840C /* StoryTwo.swift */,
 >>>>>>> feature/another-story
+=======
+				83F81DBD2708059E00D5840C /* StoryThree.swift */,
+>>>>>>> feature/story-three
 				83F81DAB2707F48C00D5840C /* Main.storyboard */,
 				83F81DAE2707F49000D5840C /* Assets.xcassets */,
 				83F81DB02707F49000D5840C /* LaunchScreen.storyboard */,
@@ -154,10 +166,14 @@
 			buildActionMask = 2147483647;
 			files = (
 <<<<<<< HEAD
+<<<<<<< HEAD
 				83F81DBA2707F51800D5840C /* StoryOne.swift in Sources */,
 =======
 				83F81DBC2707F60A00D5840C /* StoryTwo.swift in Sources */,
 >>>>>>> feature/another-story
+=======
+				83F81DBE2708059E00D5840C /* StoryThree.swift in Sources */,
+>>>>>>> feature/story-three
 				83F81DAA2707F48C00D5840C /* ViewController.swift in Sources */,
 				83F81DA62707F48C00D5840C /* AppDelegate.swift in Sources */,
 				83F81DA82707F48C00D5840C /* SceneDelegate.swift in Sources */,

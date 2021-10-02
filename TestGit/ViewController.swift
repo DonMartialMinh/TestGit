@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("This is a print")
         print("Add story one")
         print("Add story two")
+        print("Create story three")
     }
 }
 
