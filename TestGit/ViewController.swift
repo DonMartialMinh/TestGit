@@ -13,6 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("This is a print")
+        print("Add story one")
+        print("Add story two")
+        print("Create story three")
         print("Added story four")
     }
 }
